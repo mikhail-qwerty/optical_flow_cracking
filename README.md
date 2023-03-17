@@ -7,4 +7,4 @@ This script uses the `opticalflow3D` package to calculate 3D optical flow betwee
 To use this script, you need to have `opticalflow3D` and `tifffile` packages installed. You can install them using pip:
 
 ```sh
-pip install opticalflow3D tifffile
+pip install opticalflow3D tifffile numpy
